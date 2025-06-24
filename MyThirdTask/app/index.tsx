@@ -9,6 +9,7 @@ export default function Index() {
       <Image source={require('@/assets/images/ccislogo.png')} style = {styles.image}></Image>
       
       <Text style = {styles.txt2}>Developed by</Text>
+      
       <Text style = {styles.txt3}>Donjie J. Castino</Text>
     </View>
   );
